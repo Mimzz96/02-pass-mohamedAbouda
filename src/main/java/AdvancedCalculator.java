@@ -3,12 +3,13 @@ public class AdvancedCalculator extends BasicCalculator implements AdvancedOpera
 
     @Override
     public int square(int x) {
-        return x ^ 2;
+        return x * x;
     }
 
     @Override
     public int power(int x, int p) {
-        return x ^ p;
+
+        return (int)Math.pow(x,p);
     }
 
     @Override
