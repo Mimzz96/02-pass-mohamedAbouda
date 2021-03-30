@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="0.006" tests="9" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="idea.version" value="2020.3.2"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="15.0.2+7-27"/>
+    <property name="sun.boot.library.path" value="D:\IntelliJ IDEA Community Edition 2020.3.2\sdk\bin"/>
+    <property name="user.country.format" value="SE"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Programming\Prov2"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Programming\Prov2"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="15.0.2+7-27"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Mohamed\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="D:\IntelliJ IDEA Community Edition 2020.3.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\IntelliJ IDEA Community Edition 2020.3.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\IntelliJ IDEA Community Edition 2020.3.2\sdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\Mohamed\AppData\Local\Microsoft\WindowsApps;C:\Users\Mohamed\AppData\Local\GitHubDesktop\bin;C:\Users\Mohamed\AppData\Local\Microsoft\WindowsApps;;C:\Users\Mohamed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Mohamed\.dotnet\tools;."/>
+    <property name="maven.conf" value="D:\IntelliJ IDEA Community Edition 2020.3.2\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="59.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Mohamed"/>
+    <property name="user.timezone" value="Europe/Stockholm"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="15"/>
+    <property name="user.name" value="Mohamed"/>
+    <property name="java.class.path" value="D:\IntelliJ IDEA Community Edition 2020.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;D:\IntelliJ IDEA Community Edition 2020.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.3.2 org.apache.maven.plugins:maven-surefire-plugin:2.17:test"/>
+    <property name="java.home" value="D:\IntelliJ IDEA Community Edition 2020.3.2\sdk"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="15.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\IntelliJ IDEA Community Edition 2020.3.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="divide on divide(BasicCalculatorTest)" classname="BasicCalculatorTest" time="0.003"/>
+  <testcase name="add on add(BasicCalculatorTest)" classname="BasicCalculatorTest" time="0"/>
+  <testcase name="substract on substract(BasicCalculatorTest)" classname="BasicCalculatorTest" time="0"/>
+  <testcase name="multiply on multiply(BasicCalculatorTest)" classname="BasicCalculatorTest" time="0"/>
+  <testcase name="square on square(AdvancedCalculatorTest)" classname="AdvancedCalculatorTest" time="0.002"/>
+  <testcase name="root on root(AdvancedCalculatorTest)" classname="AdvancedCalculatorTest" time="0"/>
+  <testcase name="power on power(AdvancedCalculatorTest)" classname="AdvancedCalculatorTest" time="0.001"/>
+  <testcase name="absolute on absolute(AdvancedCalculatorTest)" classname="AdvancedCalculatorTest" time="0"/>
+  <testcase name="squareRoot on squareRoot(AdvancedCalculatorTest)" classname="AdvancedCalculatorTest" time="0"/>
+</testsuite>

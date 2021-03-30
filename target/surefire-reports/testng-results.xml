@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T16:13:27Z" name="Surefire suite" finished-at="2021-03-30T16:13:27Z" duration-ms="181">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T16:13:27Z" name="Surefire test" finished-at="2021-03-30T16:13:27Z" duration-ms="181">
+      <class name="BasicCalculatorTest">
+        <test-method signature="divide()[pri:0, instance:divide(BasicCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="divide" finished-at="2021-03-30T18:13:27Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method signature="add()[pri:0, instance:add(BasicCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="add" finished-at="2021-03-30T18:13:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="substract()[pri:0, instance:substract(BasicCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="substract" finished-at="2021-03-30T18:13:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substract -->
+        <test-method signature="multiply()[pri:0, instance:multiply(BasicCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="multiply" finished-at="2021-03-30T18:13:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+      </class> <!-- BasicCalculatorTest -->
+      <class name="AdvancedCalculatorTest">
+        <test-method signature="square()[pri:0, instance:square(AdvancedCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="square" finished-at="2021-03-30T18:13:27Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- square -->
+        <test-method signature="root()[pri:0, instance:root(AdvancedCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="root" finished-at="2021-03-30T18:13:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- root -->
+        <test-method signature="power()[pri:0, instance:power(AdvancedCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="power" finished-at="2021-03-30T18:13:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- power -->
+        <test-method signature="absolute()[pri:0, instance:absolute(AdvancedCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="absolute" finished-at="2021-03-30T18:13:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- absolute -->
+        <test-method signature="squareRoot()[pri:0, instance:squareRoot(AdvancedCalculatorTest)]" started-at="2021-03-30T18:13:27Z" name="squareRoot" finished-at="2021-03-30T18:13:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- squareRoot -->
+      </class> <!-- AdvancedCalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
